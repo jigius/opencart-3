@@ -95,7 +95,7 @@ echo
 				'product_id' => 123,
 				'path' => "78_90"
 			]
-		) === "http://example.com/parrot&amp;path=70_90"? ".": "E";
+		) === "http://example.com/parrot?path=78_90"? ".": "E";
 
 // Test 6
 /*
